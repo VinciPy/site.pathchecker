@@ -1,0 +1,8 @@
+{
+  "name": "site.pathchecker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:VinciPy/site.pathchecker.git",
+  "author": "vinci <viniciusantana323@gmail.com>",
+  "license": "MIT"
+}
