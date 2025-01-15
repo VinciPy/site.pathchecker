@@ -10,8 +10,13 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/ui": "^2.21.0",
+    "@vueuse/components": "^12.4.0",
     "nuxt": "^3.15.1",
+    "typescript": "^5.7.3",
     "vue": "latest",
-    "vue-router": "latest"
+    "vue-router": "latest",
+    "vue-tsc": "^2.2.0",
+    "yup": "^1.6.1"
   }
 }
